@@ -53,11 +53,11 @@ streamlit run app.py
 ```
 
 ## 📷 Screenshots
-## 📷 Screenshots
+#UI interface
 ![Fake News Detector UI](input/Fake_news_processing.png)
-
+#True News
 ![Fake News Detector UI](input/True_news.png)
-
+#Fake News
 ![Fake News Detector UI](input/Fake_news.png)
 
 
