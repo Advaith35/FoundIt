@@ -1,7 +1,7 @@
-# 📰 Fake News Detector
+# 📰 FOUNDIT
 
 ## Overview
-The **Fake News Detector** is an AI-powered web application designed to help users verify the authenticity of news articles and statements. By leveraging **Google’s Gemini AI**, the app analyzes news content, cross-references it with credible sources, and provides a verdict on its accuracy.
+The **FoundIt** is an AI-powered web application designed to help users verify the authenticity of news articles and statements. By leveraging **Google’s Gemini AI**, the app analyzes news content, cross-references it with credible sources, and provides a verdict on its accuracy.
 
 ## ✨ Features
 - ✅ **AI-Powered Analysis** – Uses Google’s **Gemini-2.0 Flash** model to evaluate the credibility of news statements.
