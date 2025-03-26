@@ -53,11 +53,12 @@ streamlit run app.py
 ```
 
 ## 📷 Screenshots
-![Fake News Detector UI](https://raw.githubusercontent.com/Advaith35/FoundIt/main/input/Fake_news_processing.png)
+## 📷 Screenshots
+![Fake News Detector UI](input/Fake_news_processing.png)
 
-![Fake News Detector UI](https://raw.githubusercontent.com/Advaith35/FoundIt/main/input/True_news.png)
+![Fake News Detector UI](input/True_news.png)
 
-![Fake News Detector UI](https://raw.githubusercontent.com/Advaith35/FoundIt/main/input/Fake_new.png)
+![Fake News Detector UI](input/Fake_new.png)
 
 
 ## 🏆 Impact
