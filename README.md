@@ -58,7 +58,7 @@ streamlit run app.py
 
 ![Fake News Detector UI](input/True_news.png)
 
-![Fake News Detector UI](input/Fake_new.png)
+![Fake News Detector UI](input/Fake_news.png)
 
 
 ## 🏆 Impact
