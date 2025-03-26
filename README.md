@@ -53,7 +53,7 @@ streamlit run app.py
 ```
 
 ## 📷 Screenshots
-![Fake News Detector UI](https://drive.google.com/file/d/1vmHlIrR2q0TphmzSZv18qBlH2tgtcehB/view?usp=sharing)
+![Fake News Detector UI]('https://drive.google.com/file/d/1vmHlIrR2q0TphmzSZv18qBlH2tgtcehB/view?usp=sharing')
 
 
 ## 🏆 Impact
